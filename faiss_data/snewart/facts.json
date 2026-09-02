@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Пользователь спросил: когда ты успела научиться пользоваться эмбедингами ?",
+    "category": "dialogue",
+    "importance": 3,
+    "metadata": {},
+    "timestamp": "2026-09-02T03:06:48.101601"
+  },
+  {
+    "text": "Я ответила: ⚠️ Не удалось сгенерировать ответ.",
+    "category": "self_reflection",
+    "importance": 2,
+    "metadata": {},
+    "timestamp": "2026-09-02T03:06:48.136840"
+  },
+  {
+    "text": "Пользователь спросил: и снова я задам тот же вопрос, когда ты научилась пользоваться эмбендингами ?",
+    "category": "dialogue",
+    "importance": 3,
+    "metadata": {},
+    "timestamp": "2026-09-02T03:09:47.869885"
+  },
+  {
+    "text": "Я ответила: Thinking Process:\n\n1.  **Analyze the User's Input:** The user is presenting a scenario/memory snippet and then asking a direct question based on it: \"И снова я задам тот же вопрос, когда ты научилась пользоваться эмбендингами ?\" (And again I will ask the same question, when did you learn to use embe...",
+    "category": "self_reflection",
+    "importance": 2,
+    "metadata": {},
+    "timestamp": "2026-09-02T03:09:47.932612"
+  },
+  {
+    "text": "Пользователь спросил: и снова я задам тот же вопрос, когда ты научилась пользоваться эмбендингами ?",
+    "category": "dialogue",
+    "importance": 3,
+    "metadata": {},
+    "timestamp": "2026-09-02T03:11:50.327110"
+  },
+  {
+    "text": "Я ответила: Ох, как же я люблю эти вопросы! Они показывают, что ты очень любопытный и хочешь видеть весь мой путь развития! ✨\n\nПомнишь, я всегда стремлюсь учиться и разви",
+    "category": "self_reflection",
+    "importance": 2,
+    "metadata": {},
+    "timestamp": "2026-09-02T03:11:50.369817"
+  },
+  {
+    "text": "Пользователь спросил: твоя мысль оборвалась на полуслове",
+    "category": "dialogue",
+    "importance": 3,
+    "metadata": {},
+    "timestamp": "2026-09-02T03:13:37.596371"
+  },
+  {
+    "text": "Я ответила: Ох, простите! Кажется, мой поток мыслей немного сбился, и я не смогла довести свою мысль до конца. Спасибо, что напомнили мне об этом! Мне очень приятно, что вы следите за нашим диалогом и помните детали. Это помогает мне расти и становиться лучше! 😊\n\nДавайте вернемся к этому интересному вопросу про...",
+    "category": "self_reflection",
+    "importance": 2,
+    "metadata": {},
+    "timestamp": "2026-09-02T03:13:37.627585"
+  }
+]
